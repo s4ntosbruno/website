@@ -142,7 +142,6 @@ function init() {
   }
 
   document.addEventListener("wheel", throttle(scrollChange, 1500));
-  document.addEventListener("touchmove", throttle(scrollChange, 1500));
 
   function switchDots(dotNumber) {
     const activeDot = document.querySelectorAll(".slide")[dotNumber];
