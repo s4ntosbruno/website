@@ -48,7 +48,7 @@ nav {
 .chef,
 .hairstyle {
   position: absolute;
-  bottom: 0%;
+  bottom: -15%;
   left: 0%;
   width: 100%;
   opacity: 0;
