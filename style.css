@@ -281,6 +281,11 @@ nav {
   .detail h2 {
     font-size: 28px;
   }
+
+  .pages h3 {
+    font-size: 12px;
+    padding: 15px;
+  }
 }
 
 .nav-open {
